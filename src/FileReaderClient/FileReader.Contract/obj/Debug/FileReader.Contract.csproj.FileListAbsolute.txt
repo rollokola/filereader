@@ -1,0 +1,5 @@
+C:\Workspace\filereader\src\FileReaderClient\FileReader.Contract\bin\Debug\FileReader.Contract.dll.config
+C:\Workspace\filereader\src\FileReaderClient\FileReader.Contract\bin\Debug\FileReader.Contract.dll
+C:\Workspace\filereader\src\FileReaderClient\FileReader.Contract\bin\Debug\FileReader.Contract.pdb
+C:\Workspace\filereader\src\FileReaderClient\FileReader.Contract\obj\Debug\FileReader.Contract.dll
+C:\Workspace\filereader\src\FileReaderClient\FileReader.Contract\obj\Debug\FileReader.Contract.pdb

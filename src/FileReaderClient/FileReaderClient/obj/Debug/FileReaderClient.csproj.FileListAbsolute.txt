@@ -1,0 +1,15 @@
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\obj\Debug\FileReaderClient.csprojAssemblyReference.cache
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\obj\Debug\FileReaderClient.Form1.resources
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\obj\Debug\FileReaderClient.Properties.Resources.resources
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\obj\Debug\FileReaderClient.csproj.GenerateResource.cache
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\bin\Debug\FileReaderClient.exe.config
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\bin\Debug\FileReaderClient.exe
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\bin\Debug\FileReaderClient.pdb
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\bin\Debug\FileReader.Contract.dll
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\bin\Debug\FileReader.Contract.pdb
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\bin\Debug\FileReader.Contract.dll.config
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\obj\Debug\FileReaderClient.csproj.CopyComplete
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\obj\Debug\FileReaderClient.exe
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\obj\Debug\FileReaderClient.pdb
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\filereader\src\FileReaderClient\FileReaderClient\bin\Debug\Newtonsoft.Json.xml
